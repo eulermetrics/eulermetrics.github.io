@@ -1165,7 +1165,8 @@ section {
 @media (min-width: 1200px) {
   .testimonials .swiper-slide-next {
     opacity: 1;
-    transform: scale(1.12);
+    transform: scale(1.24);
+    /* transform: scale(1.12); */
   }
 }
 
